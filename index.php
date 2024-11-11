@@ -7,6 +7,9 @@
 </head>
 <body>
     <h1>haiii ges</h1>
-    <p>Halo pakabar</p>
+    <p>Halo pakabar </p>
+    <ul>
+        <li>asdasdad</li>
+    </ul>
 </body>
 </html>
